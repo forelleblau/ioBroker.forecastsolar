@@ -1,12 +1,12 @@
 {
-  "name": "iobroker.forecastSolar",
+  "name": "iobroker.forecastsolar",
   "version": "0.0.1",
   "description": "Forecast.Solar",
   "author": {
     "name": "Marcel Adam",
     "email": "marceladam@gmx.ch"
   },
-  "homepage": "https://github.com/forelleblau/ioBroker.forecastSolar",
+  "homepage": "https://github.com/forelleblau/ioBroker.forecastsolar",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/forelleblau/ioBroker.forecastSolar"
+    "url": "https://github.com/forelleblau/ioBroker.forecastsolar"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^1.0.3"
@@ -52,7 +52,7 @@
     "lint": "eslint"
   },
   "bugs": {
-    "url": "https://github.com/forelleblau/ioBroker.forecastSolar/issues"
+    "url": "https://github.com/forelleblau/ioBroker.forecastsolar/issues"
   },
   "readmeFilename": "README.md"
 }
