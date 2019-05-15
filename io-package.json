@@ -56,8 +56,8 @@
     "main": "main.js",
     "icon": "forecastsolar.png",
     "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/Author/ioBroker.template/master/admin/template.png",
-    "readme": "https://github.com/Author/ioBroker.template/blob/master/README.md",
+    "extIcon": "https://raw.githubusercontent.com/forelleblau/ioBroker.forecastSolar/master/admin/forecastsolar.PNG",
+    "readme": "https://github.com/forelleblau/ioBroker.forecastSolar/blob/master/README.md",
     "loglevel": "info",
     "mode": "daemon",
     "type": "general",
@@ -67,16 +67,16 @@
     "adminTab": {
       "singleton": true,
       "name": {
-        "en": "Template (JavaScript)",
-        "de": "Vorlage (JavaScript)",
-        "ru": "Шаблон (JavaScript)",
-        "pt": "Template (JavaScript)",
-        "nl": "Sjabloon (JavaScript)",
-        "fr": "Modèle (JavaScript)",
-        "it": "Template (JavaScript)",
-        "es": "Plantilla (JavaScript)",
-        "pl": "Szablon (JavaScript)",
-        "zh-cn": "模板（JavaScript）"
+        "en": "Forecast.Solar",
+        "de": "Forecast.Solar",
+        "ru": "Forecast.Solar",
+        "pt": "Forecast.Solar",
+        "nl": "Forecast.Solar",
+        "fr": "Forecast.Solar",
+        "it": "Forecast.Solar",
+        "es": "Forecast.Solar",
+        "pl": "Forecast.Solar",
+        "zh-cn": "Forecast.Solar"
       },
       "link": "",
       "fa-icon": "info"
@@ -91,8 +91,11 @@
     ]
   },
   "native": {
-    "option1": true,
-    "option2": "42"
+    "longitude": "long",
+    "latitude": "lat",
+    "declination": 0,
+    "azimutz": 0,
+    "kwp": "kWp"
   },
   "objects": [],
   "instanceObjects": []
