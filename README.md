@@ -1,6 +1,6 @@
-![Logo](admin/forecastsolar.png)
+![Logo](admin/forecastsolar.PNG)
 
-# ioBroker.forecastSolar
+# ioBroker.forecastsolar
 
 [![NPM version](http://img.shields.io/npm/v/iobroker.forecastsolar.svg)](https://www.npmjs.com/package/iobroker.forecastsolar)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.forecastsolar.svg)](https://www.npmjs.com/package/iobroker.forecastsolar)
@@ -11,7 +11,7 @@
 
 **Tests:**: [![Travis-CI](http://img.shields.io/travis/forelleblau/ioBroker.forecastsolar/master.svg)](https://travis-ci.org/forelleblau/ioBroker.forecastsolar)
 
-## forecastSolar adapter for ioBroker
+## forecastsolar adapter for ioBroker
 
 1-day solar production estimate for specific location  and a specific plane orientation for an installed module power. Based on a 'public' account of <https://forecast.solar/>
 
@@ -33,7 +33,7 @@ You get estimatied values for the actual production in watts and the sum of ener
 
 MIT License
 
-Copyright (c) 2020 Marcel Adam <marceladam@gmx.ch>
+Copyright (c) 2020 Marcel Adam <mailto:marceladam@gmx.ch>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
