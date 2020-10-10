@@ -33,7 +33,7 @@ You get estimatied values for the actual production in watts and the sum of ener
 
 MIT License
 
-Copyright (c) 2020 forelleblau
+Copyright (c) 2020 Marcel Adam <marceladam@gmx.ch>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
