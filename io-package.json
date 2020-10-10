@@ -56,7 +56,7 @@
     "main": "main.js",
     "icon": "forecastsolar.png",
     "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/forelleblau/ioBroker.forecastSolar/master/admin/forecastsolar.PNG",
+    "extIcon": "https://raw.githubusercontent.com/forelleblau/ioBroker.forecastsolar/master/admin/forecastsolar.PNG",
     "readme": "https://github.com/forelleblau/ioBroker.forecastsolar/blob/master/README.md",
     "loglevel": "info",
     "mode": "daemon",
